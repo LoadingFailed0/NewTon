@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Redefine grecaptcha.enterprise.execute
+// @name         NewtonApp
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Redefine the grecaptcha.enterprise.execute function
 // @author       You
-// @match        https://newton.xyz/app/login
+// @match        https://newton.xyz/app/login*
 // @grant        none
 // ==/UserScript==
 
