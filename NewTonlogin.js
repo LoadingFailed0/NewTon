@@ -24,6 +24,7 @@
     const url = "https://api.yescaptcha.com/createTask";
     const data = {
       clientKey: clientKey,
+      softID:64228,
       task: {
         websiteURL: websiteURL,
         websiteKey: websiteKey,
